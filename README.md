@@ -45,3 +45,4 @@ See the [ReShade Forum](https://reshade.me/forum) and [Discord](https://discord.
 
 ReShade is licensed under the terms of the [BSD 3-clause license](LICENSE.md).\
 Some source code files are dual-licensed and are also available under the terms of the MIT license, when stated as such at the top of those files.
+# CI trigger 1790678908
